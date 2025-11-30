@@ -1,5 +1,3 @@
-# Templates
-Reusable frameworks for scripts and content production.
 # Templates Library
 
 Ready-to-use templates to speed up content creation.
