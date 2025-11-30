@@ -1,5 +1,3 @@
-# Prompts
-AI prompts organized by category.
 # Prompts Library
 
 A collection of AI prompts for video creation, storytelling, teaching, and voice styles.
