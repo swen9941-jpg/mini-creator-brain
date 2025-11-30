@@ -4,6 +4,16 @@ Your personal library of **AI prompts, video templates, and creative tools** —
 
 ---
 
+## 🚀 Library Dashboard
+
+[![Prompts](https://img.shields.io/badge/Prompts-%F0%9F%93%9D-red)](prompts/)  
+[![Templates](https://img.shields.io/badge/Templates-%F0%9F%93%91-blue)](templates/)  
+[![Ideas](https://img.shields.io/badge/Ideas-%F0%9F%92%A1-green)](ideas/)
+
+Click any badge to jump straight to that folder.
+
+---
+
 ## 📖 About
 
 Mini Creator Brain is your **personal creative library**. It helps you:
@@ -16,45 +26,45 @@ Mini Creator Brain is your **personal creative library**. It helps you:
 
 ## 📂 Folder Overview
 
-### **1. Prompts 📝**
+### **📝 Prompts**
 AI prompts for generating scripts, quizzes, voice styles, and creative characters.
 
-- **[YouTube Story Video Prompt](prompts/youtube-story-video-prompt.md)** – Create story-driven YouTube scripts.  
-- **[AI Truth Bomb Prompt](prompts/ai-truth-bomb-prompt.md)** – Bold, curiosity-driven AI insights.  
-- **[ESL Quiz Prompt](prompts/esl-quiz-prompt.md)** – Interactive English quizzes.  
-- **[Deep Voice Style Prompt](prompts/deep-voice-style.md)** – Generate deep, commanding voice scripts.  
-- **[MythOS Character Prompt](prompts/mythos-character-prompt.md)** – Build a creative AI character.  
-- **[Soul Spoon Storytelling Tone](prompts/soul-spoon-storytelling-tone.md)** – Emotional, healing, and food-focused storytelling.
+- **[YouTube Story Video Prompt](prompts/youtube-story-video-prompt.md)**  
+- **[AI Truth Bomb Prompt](prompts/ai-truth-bomb-prompt.md)**  
+- **[ESL Quiz Prompt](prompts/esl-quiz-prompt.md)**  
+- **[Deep Voice Style Prompt](prompts/deep-voice-style.md)**  
+- **[MythOS Character Prompt](prompts/mythos-character-prompt.md)**  
+- **[Soul Spoon Storytelling Tone](prompts/soul-spoon-storytelling-tone.md)**
 
-### **2. Templates 📑**
+### **📑 Templates**
 Ready-to-use content creation templates.
 
-- **[Video Script Template](templates/video-script-template.md)** – Structure story videos, quizzes, or truth bombs.  
-- **[Weekly Content Plan Template](templates/weekly-content-plan-template.md)** – Plan a week’s worth of content.  
-- **[Affiliate Description Template](templates/affiliate-description-template.md)** – Create engaging product descriptions for affiliate links.
+- **[Video Script Template](templates/video-script-template.md)**  
+- **[Weekly Content Plan Template](templates/weekly-content-plan-template.md)**  
+- **[Affiliate Description Template](templates/affiliate-description-template.md)**
 
-### **3. Ideas 💡**
+### **💡 Ideas**
 Brainstorming and expansion starters for your projects.
 
-- **[Content Ideas Starter](ideas/content-ideas-starter.md)** – Generate new video, blog, or social content.  
-- **[Product Ideas Starter](ideas/product-ideas-starter.md)** – Brainstorm digital or physical products.  
-- **[Channel Expansion Starter](ideas/channel-expansion-starter.md)** – Explore new directions for your brand or channel.
+- **[Content Ideas Starter](ideas/content-ideas-starter.md)**  
+- **[Product Ideas Starter](ideas/product-ideas-starter.md)**  
+- **[Channel Expansion Starter](ideas/channel-expansion-starter.md)**
 
 ---
 
-## ⚡ Quick Visual Dashboard
+## ⚡ Quick Visual Table
 
 | Category | Purpose | Key Files |
 |----------|---------|-----------|
-| **📝 Prompts** | AI prompts for videos, storytelling, ESL, voice, and characters | [YouTube Story Video Prompt](prompts/youtube-story-video-prompt.md) <br> [AI Truth Bomb Prompt](prompts/ai-truth-bomb-prompt.md) <br> [ESL Quiz Prompt](prompts/esl-quiz-prompt.md) <br> [Deep Voice Style Prompt](prompts/deep-voice-style.md) <br> [MythOS Character Prompt](prompts/mythos-character-prompt.md) <br> [Soul Spoon Storytelling Tone](prompts/soul-spoon-storytelling-tone.md) |
-| **📑 Templates** | Ready-to-use templates for scripts, plans, and affiliate content | [Video Script Template](templates/video-script-template.md) <br> [Weekly Content Plan Template](templates/weekly-content-plan-template.md) <br> [Affiliate Description Template](templates/affiliate-description-template.md) |
-| **💡 Ideas** | Content, product, and channel growth starters | [Content Ideas Starter](ideas/content-ideas-starter.md) <br> [Product Ideas Starter](ideas/product-ideas-starter.md) <br> [Channel Expansion Starter](ideas/channel-expansion-starter.md) |
+| 📝 **Prompts** | AI prompts for videos, storytelling, ESL, voice, and characters | [YouTube Story Video Prompt](prompts/youtube-story-video-prompt.md) <br> [AI Truth Bomb Prompt](prompts/ai-truth-bomb-prompt.md) <br> [ESL Quiz Prompt](prompts/esl-quiz-prompt.md) <br> [Deep Voice Style Prompt](prompts/deep-voice-style.md) <br> [MythOS Character Prompt](prompts/mythos-character-prompt.md) <br> [Soul Spoon Storytelling Tone](prompts/soul-spoon-storytelling-tone.md) |
+| 📑 **Templates** | Ready-to-use templates for scripts, plans, and affiliate content | [Video Script Template](templates/video-script-template.md) <br> [Weekly Content Plan Template](templates/weekly-content-plan-template.md) <br> [Affiliate Description Template](templates/affiliate-description-template.md) |
+| 💡 **Ideas** | Content, product, and channel growth starters | [Content Ideas Starter](ideas/content-ideas-starter.md) <br> [Product Ideas Starter](ideas/product-ideas-starter.md) <br> [Channel Expansion Starter](ideas/channel-expansion-starter.md) |
 
 ---
 
 ## ⚙️ How to Use
 
-1. Click on any file link to open the prompt, template, or idea.  
+1. Click on any badge or link to open the folder or file.  
 2. Copy the content into your AI tool or editor.  
 3. Use, adapt, and create immediately.  
 
@@ -68,7 +78,4 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 ## 🌟 Contribute
 
-Open source! Add new prompts, templates, or ideas via Pull Requests.  
-
----
-
+Open source! Add new prompts, templates, or ideas via Pull Requests.
